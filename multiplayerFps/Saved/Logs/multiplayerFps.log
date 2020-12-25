@@ -19097,3 +19097,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.25-00.01.28:690][210]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
 [2020.12.25-00.01.28:695][210]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
 [2020.12.25-00.01.28:695][210]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.12.25-00.01.29:742][210]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.12.25-00.01.29:773][210]LogExit: Exiting.
+[2020.12.25-00.01.29:890][210]Log file closed, 12/25/20 01:01:29
