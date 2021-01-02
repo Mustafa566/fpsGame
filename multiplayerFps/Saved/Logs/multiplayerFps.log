@@ -544,3 +544,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.02-12.30.00:139][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
 [2021.01.02-12.30.00:148][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3002 classes and 704 folders.
 [2021.01.02-12.30.00:193][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.02-12.30.01:332][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.02-12.30.01:377][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.01.02-12.30.02:233][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.02-12.30.02:289][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.02-12.30.02:305][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.02-12.30.02:305][  0]LogLoad: (Engine Initialization) Total time: 15.27 seconds
+[2021.01.02-12.30.02:305][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.02-12.30.02:544][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.01.02-12.30.02:590][  0]LogSlate: Took 0.041849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.02-12.30.03:092][  0]LogRenderer: Reallocating scene render targets to support 804x520 Format 10 NumSamples 1 (Frame:1).
+[2021.01.02-12.30.03:092][  0]LogSlate: Took 0.082977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.02-12.30.03:294][  2]LogAssetRegistry: Asset discovery search completed in 12.4250 seconds
+[2021.01.02-12.30.03:297][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2021.01.02-12.30.03:298][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2021.01.02-12.30.04:800][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.02-12.30.04:981][177]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:131).
